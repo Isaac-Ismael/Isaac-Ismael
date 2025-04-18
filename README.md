@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Isaac Ismael, tenho 23 anos. Sou formado em Análise e Desenvolvimento de Sistema, possuo certificados em Database Foundations MYSQL pela ORACLE e Técnico em Informática. 
+Me chamo Isaac Ismael, tenho 23 anos. Sou formado em Análise e Desenvolvimento de Sistema, possuo certificados em Database Foundations MYSQL pela ORACLE e de Técnico em Informática.
+Conhecimento em Metodologia Ágies, Leadpages, Desenvolvimento de Web Site, Machine Learning, Engenharia de Requisitos, Teste e Qualidade de Software. Á prucurar de novos desafios.
+
 
 <!--
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
@@ -81,6 +83,18 @@ Me chamo Isaac Ismael, tenho 23 anos. Sou formado em Análise e Desenvolvimento 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br/>
+<br/>
+
+## 🤖 Ferramentas mais utilizado no dia dia
+
+![Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Woed](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsof_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+	
 <br/>
 <br/>
 
