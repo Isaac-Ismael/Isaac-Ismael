@@ -102,3 +102,11 @@ Me chamo Isaac Ismael, tenho 23 anos. Sou formado em Análise e Desenvolvimento 
   />
 
 </p>
+
+<!--
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isaac-Ismael/Isaac-Ismael/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isaac-Ismael/Isaac-Ismael/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Isaac-Ismael/Isaac-Ismael/output/github-contribution-grid-snake.svg">
+</picture>
+-->
