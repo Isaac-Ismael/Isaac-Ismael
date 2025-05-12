@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👩🏻‍💻 Isaac Ismael
 
 - 🔭 Hoje trabalho como Ag Administrativo
-- 🌱 Estudando PHP, Python
+- 🌱 Estudando Java
 - 😄 Ele/Dele
 
 **`Desenvolvedor Front-End`**
